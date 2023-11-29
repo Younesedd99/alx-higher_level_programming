@@ -1,1 +1,1 @@
-my second project
+second chance project
